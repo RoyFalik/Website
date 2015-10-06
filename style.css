@@ -1,0 +1,12 @@
+.fa.info-icon {
+    cursor: pointer;
+    font-size: 45px;
+    text-align: center;
+    margin-right: 1%;
+    color: #6f95a8;
+}
+.fa.info-icon:hover {
+    color: #254252;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
